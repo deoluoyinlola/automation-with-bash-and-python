@@ -4,8 +4,8 @@ As seasoned SysAdmin and DevOps guy, I often use bash scripting and python for a
 # Resources
 I have also find the following repo, links and materials useful for my daily reference;
 
-https://github.com/dylanaraps/pure-bash-bible
-https://github.com/awesome-lists/awesome-bash
+    https://github.com/dylanaraps/pure-bash-bible
+    https://github.com/awesome-lists/awesome-bash
 stackoverflow
 googling
 

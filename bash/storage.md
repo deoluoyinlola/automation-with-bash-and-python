@@ -27,4 +27,5 @@ $ tar -zcf archive.tar.gz /home/deolu/Project/*.* 2>/dev/null $
 $ ls -l archive.tar.gz
 ```
 - Now I have the main component for your archive script completed.
+
 [Back to Contents](#Contents)
