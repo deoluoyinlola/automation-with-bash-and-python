@@ -16,10 +16,9 @@ Although they have a lot of overlap in the purposes they serve, Bash scripts are
 
 ## Tools
 - BASH
-- IPython
-IPython is an interactive command-line terminal for Python.
-- Python libraries; AWS Boto3 and others
-AWS Boto3 is the python library for AWS, AWS SDK to create, configure and manage AWS services, like EC2, S3, etc.
+- IPython; is an interactive command-line terminal for Python.
+- AWS Boto3; is a python library for AWS, AWS SDK to create, configure and manage AWS services, like EC2, S3, etc.
+- and other python libraries
 
 ## Resources
 I have also find the following repo, links and materials useful for my daily reference;
