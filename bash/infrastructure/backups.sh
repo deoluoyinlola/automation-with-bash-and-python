@@ -1,10 +1,3 @@
-
-**Contents** <a name="Contents"></a>
-* [Automating backups](#Automating-backups)
-* [python](#python)
-
-[Back to Contents](#Contents)
-
 ## Automating backups
 - If you’re using your Linux system to work on an important project, you can create a shell script that automatically takes snapshots of specific directories. Designating these directories in a config- uration file allows you to change them when a particular project changes. This helps avoid a time- consuming restore process from your main archive files.
 
@@ -27,5 +20,3 @@ $ tar -zcf archive.tar.gz /home/deolu/Project/*.* 2>/dev/null $
 $ ls -l archive.tar.gz
 ```
 - Now I have the main component for your archive script completed.
-
-[Back to Contents](#Contents)

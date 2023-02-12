@@ -1,3 +1,6 @@
+## Script Usage
+- Note that all the scripts are intended for Linux system environment. Also confirm if the task require using of library or pure python before proceeding.
+
 ## Documentations
 https://pypi.org/project/boto3/
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
