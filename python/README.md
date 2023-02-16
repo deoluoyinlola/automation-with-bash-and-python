@@ -28,3 +28,18 @@ Python can also be used for infrastructure provisioning, but Terraform is much b
 | TF manages state of the infrastructure, so TF knows the current state | Python doesn't have a state and is not idempotent |
 | TF knows the difference of current and your configured/desired state | In TF you declare the end result, while in Python you need to explicitly write what you want to do (imperative) |
 | TF is idempotent (multiple execution of same config file, will aways result in same end result) | Python is more low level, so it's more flexible and you can write very complex logic: Monitoring, BackUps, Scheduled Task |
+
+
+## Some Basic Modules
+Battery included - Module for almost everything
+The following are installed by default(for details, check https://doc.python.org/3/library);
+os - interact with operating system
+sys - functions and variable, create directories in pipeline
+re - regular expression matching, patterns and strings, shorten and speed-up code
+subprocess - spawn new process
+Platform - Device, OS, Version, Python
+smptplib - send emails with SMTP
+The following need to be installed;
+Requests - http request (learn more at https://pypi.org/project/requests)
+Beautiful Soup - Scrape info from web pages (learn more at https://pypi.org/project/beautifulsoup4)
+Fabric - (learn more at fabfile.org)
