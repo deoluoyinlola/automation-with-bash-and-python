@@ -1,5 +1,5 @@
 ## Contents
-I have section the whole thing based on languages use for these scripting; BASH and Python. So all the scripting file for specific task will be found inside each directory accordingly.
+I have section the whole thing based on languages use for these scripting; BASH and Python. So all the scripting file for each language will be found inside each directory accordingly.
 
 ## Motivation
 As seasoned SysAdmin and DevOps guy, I often use bash scripting and python for automation and realize that rather than continually copying scripts and inappriopriate code just anywhere, I'm storing these here for my own usage and anyone else who may find it helpful. Suggestions for improvements are most welcome.
@@ -18,7 +18,7 @@ Although they have a lot of overlap in the purposes they serve, Bash scripts are
 - BASH
 - IPython; is an interactive command-line terminal for Python.
 - AWS Boto3; is a python library for AWS, AWS SDK to create, configure and manage AWS services, like EC2, S3, etc.
-- and other python libraries
+- and other python modules and libraries
 
 ## Resources
 I have also find the following repo, links and materials useful for my daily reference;
@@ -29,5 +29,5 @@ https://github.com/awesome-lists/awesome-bash
 
 stackoverflow
 
-googling
+google
 
