@@ -11,8 +11,11 @@ Peace!
 
 ## Documentations
 https://pypi.org/project/boto3/
+
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
 https://docs.python.org/3/library/smtplib.html
+
 https://docs.python.org/3/library/time.html
 
 ## Prerequisites
@@ -35,15 +38,18 @@ Python can also be used for infrastructure provisioning, but Terraform is much b
 | TF is idempotent (multiple execution of same config file, will aways result in same end result) | Python is more low level, so it's more flexible and you can write very complex logic: Monitoring, BackUps, Scheduled Task |
 
 ## Some Basic Modules
-Battery included - Module for almost everything
+Battery included - Module for almost everything;
 The following are installed by default(for details, check https://doc.python.org/3/library);
-os - interact with operating system
-sys - functions and variable, create directories in pipeline
-re - regular expression matching, patterns and strings, shorten and speed-up code
-subprocess - spawn new process
-Platform - Device, OS, Version, Python
-smptplib - send emails with SMTP
+- os - interact with operating system
+- sys - functions and variable, create directories in pipeline
+- re - regular expression matching, patterns and strings, shorten and speed-up code
+- subprocess - spawn new process
+- Platform - Device, OS, Version, Python
+- smptplib - send emails with SMTP
+
 The following need to be installed;
-Requests - http request (learn more at https://pypi.org/project/requests)
-Beautiful Soup - Scrape info from web pages (learn more at https://pypi.org/project/beautifulsoup4)
-Fabric - (learn more at fabfile.org)
+- Requests - http request (learn more at https://pypi.org/project/requests)
+- Beautiful Soup - Scrape info from web pages (learn more at https://pypi.org/project/beautifulsoup4)
+- Fabric - (learn more at fabfile.org)
+- Rembg - tool to remove images background (https://pypi.org/project/rembg/)
+- and several other modules, https://pypi.org/project/
