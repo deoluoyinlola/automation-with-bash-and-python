@@ -1,4 +1,3 @@
-### send_email_by_shell_script
 #!/bin/bash
 #install dependencies
 
