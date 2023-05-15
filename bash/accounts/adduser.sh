@@ -1,4 +1,3 @@
-### adduser
 #!/bin/bash/
 #Adding the desired username 
 echo "Enter the name of the new user:"
